@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314993143318",
+    "project_id": "mynotes-flutter-project-a4b40",
+    "storage_bucket": "mynotes-flutter-project-a4b40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314993143318:android:b68cf9e8063003d953cf37",
+        "android_client_info": {
+          "package_name": "com.trainingdomain.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8A5R6IYtHw51PkXgqWgcN5-NSYY5IWVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
